@@ -1,0 +1,8 @@
+body{
+    background-color: aqua;
+}
+.Rightside{
+    width: 100px;
+    max-width: 500px;
+    text-align: center;
+}
